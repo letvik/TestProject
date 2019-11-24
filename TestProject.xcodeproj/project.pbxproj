@@ -13,6 +13,7 @@
 		DFFD9BB4238AC69C006A6FE1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DFFD9BB2238AC69C006A6FE1 /* Main.storyboard */; };
 		DFFD9BB6238AC69D006A6FE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DFFD9BB5238AC69D006A6FE1 /* Assets.xcassets */; };
 		DFFD9BB9238AC69D006A6FE1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DFFD9BB7238AC69D006A6FE1 /* LaunchScreen.storyboard */; };
+		DFFD9BC1238ACF9E006A6FE1 /* TestClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFFD9BC0238ACF9E006A6FE1 /* TestClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DFFD9BB5238AC69D006A6FE1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DFFD9BB8238AC69D006A6FE1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DFFD9BBA238AC69D006A6FE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DFFD9BC0238ACF9E006A6FE1 /* TestClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DFFD9BAC238AC69C006A6FE1 /* AppDelegate.swift */,
 				DFFD9BAE238AC69C006A6FE1 /* SceneDelegate.swift */,
 				DFFD9BB0238AC69C006A6FE1 /* ViewController.swift */,
+				DFFD9BC0238ACF9E006A6FE1 /* TestClass.swift */,
 				DFFD9BB2238AC69C006A6FE1 /* Main.storyboard */,
 				DFFD9BB5238AC69D006A6FE1 /* Assets.xcassets */,
 				DFFD9BB7238AC69D006A6FE1 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DFFD9BC1238ACF9E006A6FE1 /* TestClass.swift in Sources */,
 				DFFD9BB1238AC69C006A6FE1 /* ViewController.swift in Sources */,
 				DFFD9BAD238AC69C006A6FE1 /* AppDelegate.swift in Sources */,
 				DFFD9BAF238AC69C006A6FE1 /* SceneDelegate.swift in Sources */,
